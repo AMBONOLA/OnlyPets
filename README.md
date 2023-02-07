@@ -1,7 +1,7 @@
 # Project Proposal
 
 
-## OnlyPets app and how to better spend your time as an animal lover!
+## OnlyPets app, a soccial media network for your pet!
 
 ## OnlyPets
 
